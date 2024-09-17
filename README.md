@@ -16,14 +16,15 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **Développeur Full Stack - Numéha** (septembre 2022 - septembre 2023)  
   Conception d'un jeu numérique, renforçant mes compétences en développement full stack.
 
-- **RISK’ATHON - ORMES** (octobre 2022)  
-  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
-
 - **Logisticien - Av-Industry** (avril 2021 – mai 2021)  
   Gestion des transporteurs, mise à jour des systèmes informatiques, et connaissance approfondie des normes logistiques.
 
 - **Technicien Informatique et Réseau (Autoentrepreneur)** (juin 2024 – septembre 2024)  
   Maintenance de systèmes informatiques et déploiement de systèmes réseau, y compris l'installation et la configuration de 5 systèmes Dell VxRail.
+  
+## Projets
+  - **RISK’ATHON - ORMES** (octobre 2022)  
+  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
 
 - **Projet Personnel - Autodidacte** (mars 2024 - août 2024)  
   Développement d’une application SaaS pour la création de programmes sportifs.

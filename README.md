@@ -13,25 +13,28 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **Langages en apprentissage** : Python
 
 ## Expériences Professionnelles
+- **Technicien Informatique et Réseau (Autoentrepreneur)** (juin 2024 – septembre 2024)  
+  Maintenance de systèmes informatiques et déploiement de systèmes réseau, y compris l'installation et la configuration de 5 systèmes Dell VxRail.
+
 - **Développeur Full Stack - Numéha** (septembre 2022 - septembre 2023)  
   Conception d'un jeu numérique, renforçant mes compétences en développement full stack.
 
 - **Logisticien - Av-Industry** (avril 2021 – mai 2021)  
   Gestion des transporteurs, mise à jour des systèmes informatiques, et connaissance approfondie des normes logistiques.
-
-- **Technicien Informatique et Réseau (Autoentrepreneur)** (juin 2024 – septembre 2024)  
-  Maintenance de systèmes informatiques et déploiement de systèmes réseau, y compris l'installation et la configuration de 5 systèmes Dell VxRail.
   
 ## Projets
-  - **RISK’ATHON - ORMES** (octobre 2022)  
-  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
-
 - **Projet Personnel - Autodidacte** (mars 2024 - août 2024)  
   Développement d’une application SaaS pour la création de programmes sportifs.
+
+- **RISK’ATHON - ORMES** (octobre 2022)  
+  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
 
 ## Formations
 - **FORMATION EN ADMINISTRATION SYSTÈME DEVOPS - La Manu** (septembre 2024 - novembre 2025)  
   Bac+3. Compétences développées : programmation Python, automatisation et déploiement d'infrastructure, sécurisation cloud, gestion de données et containers.
+
+- **Concepteur de Systèmes d’Information - Scholarfab** (octobre 2023 - janvier 2024)  
+  Bac+3. axé sur l'infrastructure matérielle et logicielle et le développement de solutions.
 
 - **FORMATION DÉVELOPPEUR WEB ET MOBILE - WANT-SCHOOL** (septembre 2022 - août 2023)  
   Bac+2. Apprentissage du développement fullstack via JavaScript (React, Node.js) et C# (Xamarin pour mobile).
@@ -41,9 +44,6 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 
 - **Baccalauréat STMG, option finance - Lycée Jean Prevost** (2017-2020)  
   Bac. Développement de compétences analytiques et de gestion financière.
-
-- **Concepteur de Systèmes d’Information - Scholarfab** (octobre 2023 - janvier 2024)  
-  Bac+3. axé sur l'infrastructure matérielle et logicielle et le développement de solutions.
 
 ## Contact
 - **LinkedIn** : [Calix Hoëllard](https://www.linkedin.com/in/calix-hoëllard-ab4516242/)

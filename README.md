@@ -9,7 +9,7 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **Bases de données** : PostgreSQL, MySQL, JMerise, Prisma
 - **Outils et Scripts** : Git, Bash, Docker (en apprentissage), Vmware
 - **Réseau** : Cisco Packet Tracer, Modèle OSI, Wireshark (en apprentissage)
-- **Systèmes** : Linux, Vmware
+- **Systèmes** : Linux (Ubuntu), Vmware
 - **Langages en apprentissage** : Python
 
 ## Expériences Professionnelles

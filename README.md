@@ -5,12 +5,11 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 
 ## Compétences
 - **Front-end** : HTML, CSS (Bootstrap, Tailwind CSS), JavaScript (TypeScript, Next.js, React.js)
-- **Back-end** : JavaScript (Node.js, Express.js), C#, PHP
+- **Back-end** : JavaScript (Node.js, Express.js), C#, PHP, Python (en amélioration)
 - **Bases de données** : PostgreSQL, MySQL, JMerise, Prisma
 - **Outils et Scripts** : Git, Bash, Docker (en apprentissage), Vmware
 - **Réseau** : Cisco Packet Tracer, Modèle OSI, Wireshark (en apprentissage)
 - **Systèmes** : Linux (Ubuntu), Vmware
-- **Langages en apprentissage** : Python
 
 ## Expériences Professionnelles
 - **Technicien Informatique et Réseau (Autoentrepreneur)** (juin 2024 – septembre 2024)  

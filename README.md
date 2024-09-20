@@ -12,7 +12,7 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **Systèmes** : Linux (Ubuntu), Vmware
 
 ## Expériences Professionnelles
-- **Technicien Informatique et Réseau (Autoentrepreneur)** (juin 2024 – septembre 2024)  
+- **Technicien Informatique et Réseaux (Autoentrepreneur)** (juin 2024 – septembre 2024)  
   Maintenance de systèmes informatiques et déploiement de systèmes réseau, y compris l'installation et la configuration de 5 systèmes Dell VxRail.
 
 - **Développeur Full Stack - Numéha** (septembre 2022 - septembre 2023)  

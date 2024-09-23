@@ -38,10 +38,10 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **FORMATION DÉVELOPPEUR WEB ET MOBILE - WANT-SCHOOL** (septembre 2022 - août 2023)  
   Bac+2. Apprentissage du développement fullstack via JavaScript (React, Node.js) et C# (Xamarin pour mobile).
 
-- **DUT en G.L.T (Gestion Logistique et Transport) - Université du Havre** (2020-2022)  
+- **DUT en G.L.T (Gestion Logistique et Transport) - Université du Havre** (septembre 2020- juillet 2022)  
   Bac+2. Compétences en gestion des flux et optimisation des processus, utiles pour la planification des déploiements et la gestion des infrastructures.
 
-- **Baccalauréat STMG, option finance - Lycée Jean Prevost** (2017-2020)  
+- **Baccalauréat STMG, option finance - Lycée Jean Prevost** (septembre 2017- jullet 2020)  
   Bac. Développement de compétences analytiques et de gestion financière.
 
 ## Contact

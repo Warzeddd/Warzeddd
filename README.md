@@ -8,7 +8,7 @@ Actuellement en formation Bac+3 en Administration Système DevOps, je recherche 
 - **Back-end** : JavaScript (Node.js, Express.js), C#, PHP, Python (en amélioration)
 - **Bases de données** : PostgreSQL, MySQL, JMerise, Prisma
 - **Outils et Scripts** : Git, Bash, Docker (en apprentissage), Vmware
-- **Réseau** : Cisco Packet Tracer, Modèle OSI, Wireshark (en apprentissage)
+- **Réseau** : Cisco Packet Tracer (configuration du réseau, adressage IP, protocoles de routage et configuration du VLAN), Modèle OSI, Wireshark (en apprentissage)
 - **Systèmes** : Linux (Ubuntu), Vmware
 
 ## Expériences Professionnelles

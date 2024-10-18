@@ -4,10 +4,10 @@
 Actuellement en formation Bac+3 en Administration Système DevOps, je recherche une alternance pour renforcer mes compétences en cloud et développement, en particulier dans les domaines du DevOps.
 
 ## Compétences
-- **Langages** : JavaScript (TypeScript, Next.js, React.js, NodeJS), C# (Xamarin), Python (en amélioration), PHP, Bash scripting (en apprentissage)
+- **Langages** : JavaScript (TypeScript, Next.js, React.js, NodeJS), C# (Xamarin), PHP
 - **Bases de données** : ORM, MySQL, PostgreSQL (avec des procédures stockées)
 - **Réseau** : Linux (Ubuntu), VMware, Cisco Packet Tracer (configuration du réseau, adressage IP, protocoles de routage et configuration du VLAN), Wireshark
-- **Outils et Scripts** : Git, Bash, Docker (en apprentissage)
+- **Outils et Scripts** : Git, Bash
 - **Cloud (en apprentissage via ma formation)** : AWS, Ansible, Terraform, Docker avec Kubernetes, Prometheus avec Grafana, Python et Bash scripting
 
 ## Expériences Professionnelles

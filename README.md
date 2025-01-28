@@ -4,11 +4,11 @@
 Actuellement en formation Bac+3 en Administration Système DevOps, je recherche une alternance pour renforcer mes compétences en cloud et développement, en particulier dans les domaines du DevOps.
 
 ## Compétences
-- **Langages** : JavaScript, C#, Python et Bash scipting.
+- **Langages** : JavaScript, C#, Python, Vagrant, Terraform et Bash scipting.
 - **Bases de données** : ORM, MySQL et PostgreSQL (avec des procédures stockées).
-- **Réseau** : Linux (Debian), VMware / VirtualBox, Cisco Packet Tracer (configuration du réseau, adressage IP, protocoles de routage et configuration du VLAN) et Wireshark
+- **Réseau** : Linux (Debian), VMware / VirtualBox et Cisco Packet Tracer (configuration de réseau, adressage IP, protocoles de routage et configuration du VLAN)
 - **Outils** : Git et Bash.
-- **Cloud (en apprentissage via ma formation)** : AWS, Ansible, Terraform, Docker avec Kubernetes, Prometheus avec Grafana, Python et Bash scripting.
+- **Cloud (en apprentissage via ma formation)** : AWS, Terraform, Docker avec Kubernetes, Prometheus avec Grafana, Python et Bash scripting.
 
 ## Expériences Professionnelles
 - **Technicien Informatique et Réseaux (Autoentrepreneur)** (juin 2024 – septembre 2024)  

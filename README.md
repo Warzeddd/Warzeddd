@@ -1,48 +1,40 @@
-# Calix Hoëllard - Administrateur Sytème DevOps 
+# Profil
+Passionné par le fonctionnement de tout ce qui nous entoure, je recherche une opportunité d'alternance pour développer mes compétences en infrastructure cloud, en développement, et en sécurité informatique.
 
-## Profil
-Actuellement en formation Bac+3 en Administration Système DevOps, je recherche une alternance pour renforcer mes compétences en cloud et développement, en particulier dans les domaines du DevOps.
+## Informations Personnelles
+- **Nom** : Calix Hoëllard
+- **Email** : calix.hoe@gmail.com
+- **Téléphone** : 06 95 50 89 49
+- **Localisation** : Épouville
+- **Langues** : Anglais (B1), Allemand (A2)
+- **Permis** : Permis B & véhiculé
 
-## Compétences
-- **Langages** : JavaScript, C#, Python, Vagrant, Terraform et Bash scipting.
-- **Bases de données** : ORM, MySQL et PostgreSQL (avec des procédures stockées).
-- **Réseau** : Linux (Debian), VMware / VirtualBox et Cisco Packet Tracer (configuration de réseau, adressage IP, protocoles de routage et configuration du VLAN)
-- **Outils** : Git et Bash.
-- **Cloud (en apprentissage via ma formation)** : AWS, Terraform, Docker avec Kubernetes, Prometheus avec Grafana, Python et Bash scripting.
+## Recherche
+Recherche alternance en Administrateur systèmes, réseaux et sécurité (bac+ 3/4).
 
 ## Expériences Professionnelles
-- **Technicien Informatique et Réseaux (Autoentrepreneur)** (juin 2024 – septembre 2024)  
-  Maintenance de systèmes informatiques et déploiement de systèmes réseau, y compris l'installation et la configuration de 5 systèmes Dell VxRail.
-
-- **Développeur Full Stack - Numéha** (septembre 2022 - septembre 2023)  
-  Conception d'un jeu numérique, renforçant mes compétences en développement full stack.
-
-- **Logisticien - Av-Industry** (avril 2021 – mai 2021)  
-  Gestion des transporteurs, mise à jour des systèmes informatiques, et connaissance approfondie des normes logistiques.
-  
-## Projets
-- **Projet Personnel - Autodidacte** (mars 2024 - août 2024)  
-  Développement d’une application SaaS pour la création de programmes sportifs.
-
-- **RISK’ATHON - ORMES** (octobre 2022)  
-  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
+- **Développeur Full Stack - Numéha** (septembre 2022 - janvier 2024)  
+  Renforcement de mes compétences en développement full stack et gestion d’infrastructures.
+- **Technicien Réseau (Auto-entrepreneur)** (juin 2024 – septembre 2024)  
+  Installation et configuration de systèmes réseau tels que des VxRails de chez Dell.
 
 ## Formations
-- **FORMATION EN ADMINISTRATION SYSTÈME DEVOPS - La Manu** (septembre 2024 - novembre 2025)  
-  Bac+3. Compétences développées : programmation Python, automatisation et déploiement d'infrastructure, sécurisation cloud, gestion de données et containers.
+- **La Manu** — Bac+3 Administration Système DevOps (interrompu par la liquidation de l'entreprise d'alternance)  
+  septembre 2024 – février 2025
+- **Université du Havre** — Bac+2 DUT Gestion Logistique et Transport  
+  septembre 2020 – juillet 2022
+- **WANT-SCHOOL** — Bac+2 Développeur Web et Mobile  
+  septembre 2022 – août 2023
+- **Lycée Jean Prevost** — Baccalauréat STMG, option finance  
+  septembre 2017 – juillet 2020
 
-- **Concepteur de Systèmes d’Information - Scholarfab** (octobre 2023 - janvier 2024)  
-  Bac+3. axé sur l'infrastructure matérielle et logicielle et le développement de solutions.
+## Compétences
+- **Développement Full Stack** : JavaScript, C#, Python, Vagrant (ruby), Terraform (Go) et Bash scripting.
+- **Bases de Données** : MySQL, PostgreSQL (avec des procédures stockées) et ORM Prisma.
+- **Systèmes et Réseaux** : Administration Linux (Debian), VMware / VirtualBox, Cisco Packet Tracer (configuration de réseau, adressage IP, protocoles de routage, configuration de VLAN, serveur DNS, HTTP, et DHCP) et Docker.
 
-- **FORMATION DÉVELOPPEUR WEB ET MOBILE - WANT-SCHOOL** (septembre 2022 - août 2023)  
-  Bac+2. Apprentissage du développement fullstack via JavaScript (React, Node.js) et C# (Xamarin pour mobile).
-
-- **DUT en G.L.T (Gestion Logistique et Transport) - Université du Havre** (septembre 2020- juillet 2022)  
-  Bac+2. Compétences en gestion des flux et optimisation des processus, utiles pour la planification des déploiements et la gestion des infrastructures.
-
-- **Baccalauréat STMG, option finance - Lycée Jean Prevost** (septembre 2017- jullet 2020)  
-  Bac. Développement de compétences analytiques et de gestion financière.
-
-## Contact
-- **LinkedIn** : [Calix Hoëllard](https://www.linkedin.com/in/calix-hoëllard-ab4516242/)
-- **Email** : calix.hoe@gmail.com
+## Projets
+- **Autodidacte** (mars 2024 - août 2024)  
+  Développement d’une application SaaS pour la création de programmes sportifs.
+- **RISK’ATHON - ORMES** (octobre 2022)  
+  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.

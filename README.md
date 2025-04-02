@@ -24,7 +24,7 @@ Recherche alternance en Administrateur systèmes, réseaux et sécurité (bac+ 3
 - **Université du Havre** — Bac+2 DUT Gestion Logistique et Transport  
   septembre 2020 – juillet 2022
 - **WANT-SCHOOL** — Bac+2 Développeur Web et Mobile  
-  septembre 2022 – août 2023
+  septembre 2022 – août 2024
 - **Lycée Jean Prevost** — Baccalauréat STMG, option finance  
   septembre 2017 – juillet 2020
 

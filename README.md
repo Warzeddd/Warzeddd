@@ -28,10 +28,20 @@ Recherche alternance en Administrateur systèmes, réseaux et sécurité (bac+ 3
 - **Lycée Jean Prevost** — Baccalauréat STMG, option finance  
   septembre 2017 – juillet 2020
 
-## Compétences
-- **Développement Full Stack** : JavaScript, C#, Python, Vagrant (ruby), Terraform (Go) et Bash scripting.
-- **Bases de Données** : MySQL, PostgreSQL (avec des procédures stockées) et ORM Prisma.
-- **Systèmes et Réseaux** : Administration Linux (Debian), VMware / VirtualBox, Cisco Packet Tracer (configuration de réseau, adressage IP, protocoles de routage, configuration de VLAN, serveur DNS, HTTP, et DHCP) et Docker.
+## Compétences Techniques  
+
+🔹 **Systèmes & Développement**  
+- **Programmation** : JavaScript, C#, Python, Bash scripting  
+- **Outils & Automatisation** : Vagrant (Ruby), Terraform (Go), Docker  
+- **Administration système** : Unix, VMware, VirtualBox  
+
+🔹 **Bases de Données**  
+- **SGBD** : MySQL, PostgreSQL (procédures stockées), ORM Prisma  
+
+🔹 **Réseaux & Sécurité**  
+- **Protocoles** : TCP/IP, UDP, OSI, VLAN  
+- **Services** : DHCP, DNS, HTTP, SMTP  
+- **Analyse & Diagnostic** : Nmap, Wireshark  
 
 ## Projets
 - **Autodidacte** (mars 2024 - août 2024)  

@@ -41,7 +41,10 @@ Recherche alternance en Administrateur systèmes, réseaux et sécurité (bac+ 3
 🔹 **Réseaux & Sécurité**  
 - **Protocoles** : TCP/IP, UDP, OSI, VLAN  
 - **Services** : DHCP, DNS, HTTP, SMTP  
-- **Analyse & Diagnostic** : Nmap, Wireshark  
+- **Analyse & Diagnostic** : Nmap, Wireshark
+
+🔹 **Outils**  
+- **Zendesk**
 
 ## Projets
 - **Autodidacte** (mars 2024 - août 2024)  

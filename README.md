@@ -5,7 +5,7 @@
   <a href="mailto:calix.hoe@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ton-profil/">
+  <a href="https://www.linkedin.com/in/calix-ho%C3%ABllard-ab4516242/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>

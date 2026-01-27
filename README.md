@@ -1,53 +1,71 @@
-# Profil
-Passionné par le fonctionnement de tout ce qui nous entoure, je recherche une opportunité d'alternance pour développer mes compétences en infrastructure cloud, en développement, et en sécurité informatique.
+<h1 align="center">Hi there, I'm Calix Hoëllard 👋</h1>
+<h3 align="center">Futur Expert Cybersécurité IT/OT & Systèmes</h3>
 
-## Informations Personnelles
-- **Nom** : Calix Hoëllard
-- **Email** : calix.hoe@gmail.com
-- **Téléphone** : 06 95 50 89 49
-- **Localisation** : Épouville
-- **Langues** : Anglais (B1), Allemand (A2)
-- **Permis** : Permis B & véhiculé
+<p align="center">
+  <a href="mailto:calix.hoe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ton-profil/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-## Recherche
-Recherche alternance en Administrateur systèmes, réseaux et sécurité (bac+ 3/4).
+---
 
-## Expériences Professionnelles
-- **Développeur Full Stack - Numéha** (septembre 2022 - janvier 2024)  
-  Renforcement de mes compétences en développement full stack et gestion d’infrastructures.
-- **Technicien Réseau (Auto-entrepreneur)** (juin 2024 – septembre 2024)  
-  Installation et configuration de systèmes réseau tels que des VxRails de chez Dell.
+### 🚀 À propos de moi
 
-## Formations
-- **La Manu** — Bac+3 Administration Système DevOps (interrompu par la liquidation de l'entreprise d'alternance)  
-  septembre 2024 – février 2025
-- **Université du Havre** — Bac+2 DUT Gestion Logistique et Transport  
-  septembre 2020 – juillet 2022
-- **WANT-SCHOOL** — Bac+2 Développeur Web et Mobile  
-  septembre 2022 – août 2024
-- **Lycée Jean Prevost** — Baccalauréat STMG, option finance  
-  septembre 2017 – juillet 2020
+**Profil hybride Dev, SysAdmin & Logistique.**
 
-## Compétences Techniques  
+Anciennement développeur et logisticien, je pivote vers la **Cybersécurité Industrielle (OT)**. J'ai une approche concrète de l'informatique : je sais comment fonctionne une Supply Chain, je sais coder des outils, et je sais racker des serveurs.
 
-🔹 **Systèmes & Développement**  
-- **Programmation** : JavaScript, C#, Python, Bash scripting  
-- **Outils & Automatisation** : Vagrant (Ruby), Terraform (Go), Docker  
-- **Administration système** : Unix, VMware, VirtualBox  
+🔭 **Je recherche :** Une **Alternance en Cybersécurité / Admin Sys (IT/OT)** pour Septembre 2026 (Rythme 3 sem / 1 sem).
+📍 **Localisation :** Le Havre / Port-Jérôme / Sites Seveso (Mobile & Véhiculé).
+🎯 **Objectif :** Sécuriser les infrastructures critiques et garantir la continuité de service.
 
-🔹 **Bases de Données**  
-- **SGBD** : MySQL, PostgreSQL (procédures stockées), ORM Prisma  
+---
 
-🔹 **Réseaux & Sécurité**  
-- **Protocoles** : TCP/IP, UDP, OSI, VLAN  
-- **Services** : DHCP, DNS, HTTP, SMTP  
-- **Analyse & Diagnostic** : Nmap, Wireshark
+### 🛠️ Compétences Techniques (Tech Stack)
 
-🔹 **Outils**  
-- **Zendesk**
+#### 🛡️ Cyber & Réseaux
+<p>
+  <img src="https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20VLAN%20%7C%20OSI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Stormshield%20%7C%20HSE-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Wazuh-orange?style=flat-square" />
+</p>
 
-## Projets
-- **Autodidacte** (mars 2024 - août 2024)  
-  Développement d’une application SaaS pour la création de programmes sportifs.
-- **RISK’ATHON - ORMES** (octobre 2022)  
-  Création d'un système de prévention pour les personnes âgées concernant les dangers d'Internet.
+#### ⚙️ Infrastructure & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Linux-RedHat%20%2F%20Debian-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Virtualization-KVM%20%2F%20Proxmox%20%2F%20VMware-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-Dell%20VxRails-007DB8?style=flat-square&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-5C4EE5?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+#### 💻 Développement & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20MariaDB%20%7C%20PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 💼 Expériences Marquantes
+
+- **Technicien Infrastructure (Auto-entrepreneur)** : Déploiement physique et masterisation de serveurs Dell VxRails. Rigueur HSE & Datacenter.
+- **Développeur Full Stack (Numéha)** : Maintenance applicative, gestion d'incidents et logique métier.
+
+### 🎓 Parcours
+
+- **2026-2027** : Expert en ingénierie cybersécurité (Bac+5) - *En préparation*
+- **2025-2026** : Admin Sys & Sécurité (Bac+4) - *OpenClassrooms*
+- **2022-2024** : Développeur Web & Mobile (Bac+2) - *WANT-SCHOOL*
+- **2020-2022** : DUT Gestion Logistique et Transport - *Université du Havre*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USER_GITHUB&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
+</p>

@@ -74,7 +74,3 @@ Anciennement développeur et logisticien, je pivote vers la **Cybersécurité In
 - **2020-2022** : DUT Gestion Logistique et Transport - *Université du Havre*
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Warzeddd&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
-</p>

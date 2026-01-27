@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Calix Hoëllard 👋</h1>
-<h3 align="center">Futur Expert Cybersécurité IT/OT & Systèmes</h3>
+<h3 align="center">Futur Expert Cybersécurité IT/OT </h3>
 
 <p align="center">
   <a href="mailto:calix.hoe@gmail.com">
@@ -18,7 +18,7 @@
 
 Anciennement développeur et logisticien, je pivote vers la **Cybersécurité Industrielle (OT)**. J'ai une approche concrète de l'informatique : je sais comment fonctionne une Supply Chain, je sais coder des outils, et je sais déployer des infrastructures physiques.
 
-🔭 **Je recherche :** Une **Alternance en Cybersécurité / Admin Sys (IT/OT)** pour Septembre 2026 (Rythme 3 sem / 1 sem).
+🔭 **Je recherche :** Une **Alternance en Cybersécurité (IT/OT)** pour Septembre 2026 (Rythme 3 sem / 1 sem).
 📍 **Localisation :** Le Havre / Port-Jérôme / Sites Seveso (Mobile & Véhiculé).
 🎯 **Objectif :** Sécuriser les infrastructures critiques et garantir la continuité de service.
 

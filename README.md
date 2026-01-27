@@ -29,7 +29,7 @@ Anciennement développeur et logisticien, je pivote vers la **Cybersécurité In
 #### ⚙️ Infrastructure & Virtualisation
 <p>
   <img src="https://img.shields.io/badge/Linux-RedHat%20%2F%20Debian-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Virtualization-VirtualBox-2196F3?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-KVM%20%2F%20VirtualBox-2196F3?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Infra-Dell%20VxRails-007DB8?style=flat-square&logo=dell&logoColor=white" />
   <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -41,19 +41,22 @@ Anciennement développeur et logisticien, je pivote vers la **Cybersécurité In
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 
-#### 🛡️ Cyber & Réseaux
+#### 💻 Langages & Développement Web
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+#### 🛡️ Cyber, Réseaux & BDD
 <p>
   <img src="https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20VLAN%20%7C%20OSI-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Security-Stormshield%20%7C%20HSE-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Wazuh-orange?style=flat-square" />
-</p>
-
-#### 💻 Développement & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Database-SQL%20%7C%20MariaDB%20%7C%20PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Zendesk-orange?style=flat-square" />
 </p>
 
 ---

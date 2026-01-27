@@ -16,7 +16,7 @@
 
 **Profil hybride Dev, SysAdmin & Logistique.**
 
-Anciennement développeur et logisticien, je pivote vers la **Cybersécurité Industrielle (OT)**. J'ai une approche concrète de l'informatique : je sais comment fonctionne une Supply Chain, je sais coder des outils, et je sais racker des serveurs.
+Anciennement développeur et logisticien, je pivote vers la **Cybersécurité Industrielle (OT)**. J'ai une approche concrète de l'informatique : je sais comment fonctionne une Supply Chain, je sais coder des outils, et je sais déployer des infrastructures physiques.
 
 🔭 **Je recherche :** Une **Alternance en Cybersécurité / Admin Sys (IT/OT)** pour Septembre 2026 (Rythme 3 sem / 1 sem).
 📍 **Localisation :** Le Havre / Port-Jérôme / Sites Seveso (Mobile & Véhiculé).
@@ -26,20 +26,26 @@ Anciennement développeur et logisticien, je pivote vers la **Cybersécurité In
 
 ### 🛠️ Compétences Techniques (Tech Stack)
 
+#### ⚙️ Infrastructure & Virtualisation
+<p>
+  <img src="https://img.shields.io/badge/Linux-RedHat%20%2F%20Debian-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Virtualization-VirtualBox-2196F3?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Dell%20VxRails-007DB8?style=flat-square&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### 🤖 Automatisation (IaC)
+<p>
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+</p>
+
 #### 🛡️ Cyber & Réseaux
 <p>
   <img src="https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20VLAN%20%7C%20OSI-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Security-Stormshield%20%7C%20HSE-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Wazuh-orange?style=flat-square" />
-</p>
-
-#### ⚙️ Infrastructure & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Linux-RedHat%20%2F%20Debian-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Virtualization-KVM%20%2F%20Proxmox%20%2F%20VMware-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infrastructure-Dell%20VxRails-007DB8?style=flat-square&logo=dell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-5C4EE5?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
 #### 💻 Développement & Scripting
@@ -67,5 +73,5 @@ Anciennement développeur et logisticien, je pivote vers la **Cybersécurité In
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USER_GITHUB&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Warzeddd&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
 </p>

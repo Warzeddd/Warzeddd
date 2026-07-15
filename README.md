@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Calix Hoëllard 👋</h1>
-<h3 align="center">Futur Expert Cybersécurité IT/OT & Systèmes</h3>
+<h1 align="center">Calix Hoëllard</h1>
+<h3 align="center">Administrateur Systèmes, Réseaux & Cybersécurité Junior | Orienté Cyber OT & DevSecOps</h3>
 
 <p align="center">
   <a href="mailto:calix.hoe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact--Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/calix-ho%C3%ABllard-ab4516242/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -12,59 +12,51 @@
 
 ---
 
-### 🚀 À propos de moi
+### 📑 Profil Professionnel
 
-**Profil hybride Dev, SysAdmin & Logistique.**
+Technicien supérieur évoluant vers l'ingénierie système et la sécurisation des infrastructures. Spécialisé dans le déploiement automatisé (*Infrastructure as Code*), le durcissement (*Hardening*) d'annuaires et la gestion de la résilience réseau au sein d'environnements industriels et tertiaires.
 
-Anciennement développeur et logisticien, je pivote vers la **Cybersécurité Industrielle (OT)**. J'ai une approche concrète de l'informatique : je sais comment fonctionne une Supply Chain, je sais coder des outils, et je sais déployer des infrastructures physiques.
-
-🔭 **Je recherche :** Une **Alternance en Cybersécurité / Admin Sys (IT/OT)** pour Septembre 2026 (Rythme 3 sem / 1 sem).
-📍 **Localisation :** Le Havre / Port-Jérôme / Sites Seveso (Mobile & Véhiculé).
-🎯 **Objectif :** Sécuriser les infrastructures critiques et garantir la continuité de service.
+* 📍 **Zone de mobilité :** Région Normandie / Axe Seine (Mobile & Véhiculé | Adapté aux contraintes des sites SEVESO / OIV).
+* 🎯 **Objectif :** Intégrer une équipe d'ingénierie pour assurer le maintien en conditions de sécurité (MCS) et l'administration d'infrastructures critiques.
 
 ---
 
-### 🛠️ Compétences Techniques (Tech Stack)
+### 🛠️ Expertise Technique (Tech Stack)
 
-#### 🛡️ Cyberdéfense & Sécurité
-<p>
-  <img src="https://img.shields.io/badge/Firewall-Stormshield%20%7C%20Netfilter-red?style=flat-square&logo=firewalla&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protection-CrowdSec%20%7C%20Zero%20Trust-red?style=flat-square&logo=security-scorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compliance-ANSSI%20%7C%20HSE-darkred?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20Nmap%20%7C%20Wazuh-orange?style=flat-square" />
-</p>
+#### 🛡️ Cybersécurité & Gouvernance (SecOps / ZTNA)
+* **Périmètre & Réseau** : Stormshield Network Security (SNS), Pare-feu d'état Netfilter (iptables), Approche Zero-Trust (ZTNA).
+* **Défense Active & Audit** : Détection d'intrusions via CrowdSec (IDPS), Analyse de flux (Wireshark, Nmap), SIEM (Wazuh).
+* **Hardening AD** : Modèle de permissions AGDLP, Fine-Grained Password Policies (PSO), Déploiement Windows LAPS[cite: 1].
+* **Conformité** : Alignement avec les guides de durcissement de l'ANSSI et les processus ITSM (ITIL v4)[cite: 3, 5].
 
-#### ⚙️ Infrastructure & Virtualisation
-<p>
-  <img src="https://img.shields.io/badge/OS-Windows%20Server%202022%20%7C%20Linux%20RHEL-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Virtualization-KVM%20%2F%20VirtualBox-2196F3?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infra-Dell%20VxRails-007DB8?style=flat-square&logo=dell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-#### 🤖 Automatisation & Dev
-<p>
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Python%20%7C%20Bash-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-JS%20%7C%20PHP%20%7C%20SQL-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+#### 🤖 Automatisation & Cloud (IaC / DevSecOps)
+* **Configuration & Orchestration** : Ansible Core, Ansible Vault (Gestion des secrets de production)[cite: 1].
+* **Provisionnement & Sandbox** : Vagrant, Terraform, Environnements émulés (GNS3 / KVM / VirtualBox)[cite: 1].
+* **Cloud Architecture** : Architecture 3-Tiers Multi-AZ sur AWS (ECS Fargate Serverless, RDS PostgreSQL, ElastiCache)[cite: 2].
+* **Scripting & Logique** : Python (Sondes POSIX bit-à-bit), Bash, PowerShell (Audit de registre), Typage relationnel Prisma ORM[cite: 1].
 
 ---
 
-### 💼 Projets & Réalisations
+### 💼 Architecture des Réalisations (Projets Portefeuilles)
 
-- **Enterprise Infrastructure (Zero Trust)** : Architecture multi-sites sécurisée avec **Stormshield**, VPN et Windows Server (ADDS/RODC).
-- **Secure Web Stack** : Hardening serveur Linux avec **CrowdSec** et Netfilter.
-- **Network Design** : Conception réseau segmentée (VLANs) selon les normes **ANSSI**.
-- **Technicien Infrastructure** : Déploiement physique et masterisation de serveurs Dell VxRails.
+#### ⚙️ Infrastructure as Code & Résilience Systèmes
+* **[ansible-active-directory-veeam-hardening](https://github.com/Warzeddd/ansible-active-directory-veeam-hardening)** : Déploiement IaC d'une infrastructure Active Directory durcie (PSO/LAPS) couplée à une stratégie de sauvegarde Veeam 3-2-1 à cohérence transactionnelle (VSS)[cite: 1, 2].
+* **[automated-lamp-monitoring-sandbox](https://github.com/Warzeddd/automated-lamp-monitoring-sandbox)** : Conception d'une infrastructure Debian auto-cicatrisante (*Self-Healing*) supervisée activement par Monit et Supervisor avec alertes SMTP sécurisées.
+* **[enterprise-monitoring-rsyslog](https://github.com/Warzeddd/enterprise-monitoring-rsyslog)** : Métrologie distribuée via Nagios/NRPE et centralisation étanche des logs via RSyslog avec script d'alerting immunisé contre les injections de commandes[cite: 1, 2].
 
-### 🎓 Parcours
+#### 🔀 Ingénierie Réseau & Transition (Cisco IOS / Firewalls)
+* **[stormshield-zerotrust-vpn](https://github.com/Warzeddd/stormshield-zerotrust-vpn)** : Interconnexion multi-sites permanente chiffrée par VPN IPsec intégrant la protection Post-Quantique (RFC 8784) et passerelle d'accès distant soumise à posture de conformité ZTNA.
+* **[enterprise-network-resilience](https://github.com/Warzeddd/enterprise-network-resilience)** : Modélisation d'un réseau campus multi-bâtiments hautement disponible (Redondance de passerelle HSRP, Agrégation LACP EtherChannel et routage dynamique OSPF)[cite: 3, 4, 5].
+* **[ipv6-transition-dualstack](https://github.com/Warzeddd/ipv6-transition-dualstack)** : Maquette de migration d'infrastructure d'entreprise vers un environnement de transition Double-Pile (Dual-Stack) régie par routage OSPFv3 et adressage dynamique DHCPv6 Statefull.
 
-- **2026-2027** : Expert en ingénierie cybersécurité (Bac+5) - *En préparation*
-- **2025-2026** : Admin Sys & Sécurité (Bac+4) - *OpenClassrooms*
-- **2022-2024** : Développeur Web & Mobile (Bac+2) - *WANT-SCHOOL*
-- **2020-2022** : DUT Gestion Logistique et Transport - *Université du Havre*
+#### ☁️ Cloud Architecture & Web Engineering
+* **[aws-cloud-migration-django](https://github.com/Warzeddd/aws-cloud-migration-django)** : Étude de cadrage technico-stratégique pour la migration d'une stack de production vers une architecture AWS Serverless (Fargate/RDS) isolée, avec optimisation FinOps[cite: 2].
+* **[optifit-saas-planner](https://github.com/Warzeddd/optifit-saas-planner)** : Application Web SaaS sous Next.js (App Router), Server Actions sécurisés, base de données relationnelle modélisée via Prisma ORM et intégration Stripe Billing.
 
 ---
+
+### 🎓 Parcours Académique
+
+* **2025 - 2026** : Administrateur Systèmes, Réseaux et Cybersécurité (Niveau 6 / Bac+4) — *OpenClassrooms*
+* **2022 - 2024** : Développeur Web et Mobile (Niveau 5 / Bac+2) — *WANT-SCHOOL*
+* **2020 - 2022** : DUT Gestion Logistique et Transport — *Université du Havre*

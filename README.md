@@ -2,7 +2,7 @@
 <h3 align="center">Administrateur Systèmes, Réseaux & Cybersécurité Junior | Orienté Cyber OT & DevSecOps</h3>
 
 <p align="center">
-  <a href="mailto:calix.hoe@gmail.com">
+  <a href="mailto:calixhoe@duck.com">
     <img src="https://img.shields.io/badge/Email-Contact--Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/calix-ho%C3%ABllard-ab4516242/">

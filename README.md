@@ -42,7 +42,7 @@ Technicien supérieur évoluant vers l'ingénierie système et la sécurisation 
 #### ⚙️ Infrastructure as Code & Résilience Systèmes
 * **[ansible-active-directory-veeam-hardening](https://github.com/Warzeddd/ansible-active-directory-veeam-hardening)** : Déploiement IaC d'une infrastructure Active Directory durcie (PSO/LAPS) couplée à une stratégie de sauvegarde Veeam 3-2-1 à cohérence transactionnelle (VSS).
 * **[automated-lamp-monitoring-sandbox](https://github.com/Warzeddd/automated-lamp-monitoring-sandbox)** : Conception d'une infrastructure Debian auto-cicatrisante (*Self-Healing*) supervisée activement par Monit et Supervisor avec alertes SMTP sécurisées.
-* **[supervision-nagios-centralisation-rsyslog](https://github.com/Warzeddd/Supervision-Nagios-Centralisation-RSyslog)** : Métrologie distribuée via Nagios/NRPE et centralisation étanche des logs via RSyslog avec script d'alerting immunisé contre les injections de commandes.
+* **[enterprise-monitoring-rsyslog](https://github.com/Warzeddd/enterprise-monitoring-rsyslog)** : Métrologie distribuée via Nagios/NRPE et centralisation étanche des logs via RSyslog avec script d'alerting immunisé contre les injections de commandes.
 
 #### 🔀 Ingénierie Réseau & Transition (Cisco IOS / Firewalls)
 * **[stormshield-zerotrust-vpn](https://github.com/Warzeddd/stormshield-zerotrust-vpn)** : Interconnexion multi-sites permanente chiffrée par VPN IPsec intégrant la protection Post-Quantique (RFC 8784) et passerelle d'accès distant soumise à posture de conformité ZTNA.
@@ -51,7 +51,14 @@ Technicien supérieur évoluant vers l'ingénierie système et la sécurisation 
 
 #### ☁️ Cloud Architecture & Web Engineering
 * **[aws-cloud-migration-django](https://github.com/Warzeddd/aws-cloud-migration-django)** : Étude de cadrage technico-stratégique pour la migration d'une stack de production vers une architecture AWS Serverless (Fargate/RDS) isolée, avec optimisation FinOps.
-* **[Sport-Lix-saas-planner](https://github.com/Warzeddd/Sport-Lix-saas-planner)** : Application Web SaaS sous Next.js (App Router), Server Actions sécurisés, base de données relationnelle modélisée via Prisma ORM et intégration Stripe Billing.
+* **[optifit-saas-planner](https://github.com/Warzeddd/optifit-saas-planner)** : Application Web SaaS sous Next.js (App Router), Server Actions sécurisés, base de données relationnelle modélisée via Prisma ORM et intégration Stripe Billing.
+
+---
+
+### 🏆 Certifications & Plateformes Cyber
+
+* **TryHackMe** : Complétion du parcours **Cyber Security 101** (Fondations de la sécurité Web, défensive, réseau et concepts cryptographiques).
+* **Laboratoires Personnels** : Pratique régulière de challenges de durcissement et d'analyse de vulnérabilités.
 
 ---
 
